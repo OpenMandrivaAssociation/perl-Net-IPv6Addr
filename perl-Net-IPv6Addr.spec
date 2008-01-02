@@ -12,6 +12,7 @@ BuildRequires:	perl-devel
 BuildRequires:	perl-Net-IPv4Addr
 BuildRequires:	perl-Math-Base85
 BuildArch:	noarch
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 Net::IPv6Addr checks strings for valid IPv6 addresses, as
