@@ -3,7 +3,7 @@
 Summary:	Net::IPv6Addr - check validity of IPv6 addresses
 Name:		perl-%{real_name}
 Version:	0.2
-Release:	%mkrel 4
+Release:	%mkrel 5
 License:	GPL or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{real_name}
